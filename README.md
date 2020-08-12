@@ -1,3 +1,3 @@
 # Logistic-Regression-From-Scratch
 
-In this project, a logistic regression model predicts if patients in the Wisconsin Diagnostic Breast Cancer (WDBC) Dataset have a malignant tumor or not.
+Logistic Regression, also known as Logit Regression or Logit Model, is a mathematical model used to estimate the probability of an event occurring having been given some previous data. Logistic Regression works with binary data, where either the event happens or the event does not happen. Where linear regression tries to predict the future data by modeling a straight line for the current data, logistic regression does not look at the relationship between the variables as a straight line. Instead, it uses the logarithm function to find the relationship between the variables. In this project, a logistic regression model predicts if patients in the Wisconsin Diagnostic Breast Cancer (WDBC) Dataset have a malignant tumor or not.
